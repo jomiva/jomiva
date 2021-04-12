@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/josevaleras10" target="blank"><img src="https://img.shields.io/twitter/follow/josevaleras10?logo=twitter&style=for-the-badge" alt="josevaleras10" /></a> </p>
 
-- 👨‍💻 I’m currently working **as a fullstack developer.**
-
 - 💬 Ask me about **Arduino, IoT, fastify and reactjs.**
 
 - 📫 How to reach me **jomiva5016@gmail.com**
