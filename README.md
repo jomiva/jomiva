@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Arduino, IoT, fastify and reactjs.**
 
-- 📫 How to reach me **jomiva5016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
